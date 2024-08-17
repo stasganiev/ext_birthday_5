@@ -60,7 +60,6 @@
 		</valueType>
 		<value xsi:type="xs:decimal">0</value>
 		<useRestriction>false</useRestriction>
-		<expression>Месяц(ТекущаяДата())</expression>
 		<denyIncompleteValues>true</denyIncompleteValues>
 		<use>Always</use>
 	</parameter>
